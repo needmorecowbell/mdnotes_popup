@@ -1,0 +1,47 @@
+body{
+    background-color: #1B2224;
+}
+#editor{
+    width: 100%;
+    height: 100%;}
+.EasyMDEContainer {
+    background-color: #1B2224 !important;
+}
+
+.CodeMirror, .editor-preview {
+    color: white !important;
+    border-color: #3D4345 !important;
+    background-color: #1B2224 !important;
+}
+
+.cm-s-easymde .CodeMirror-cursor {
+    border-color: #3D4345 !important;
+}
+
+.editor-toolbar button i {
+    color: #1B2224 !important;
+}
+
+.editor-toolbar button.active, .editor-toolbar button:hover {
+    background-color: #2EB398 !important; 
+}
+
+.editor-toolbar i.separator {
+    color: None !important;
+    border-left: 1px solid #1B2224 !important;
+    border-right: 1px solid #1B2224 !important;
+}
+
+.editor-toolbar{
+    border-color: #3D4345 !important;
+}
+.editor-toolbar.fullscreen{
+    background-color: #3D4345 !important;
+}
+.editor-preview pre {
+    color: #3D4345 !important;
+}
+
+.draggable-area{
+    -webkit-app-region: drag;
+}
