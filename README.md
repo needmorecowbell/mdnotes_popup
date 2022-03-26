@@ -1,5 +1,7 @@
 # Markdown Notes Popup
 
+![notes](https://user-images.githubusercontent.com/7833164/160218060-9e1980e7-e7da-46d0-9c1e-7711111dea7a.gif)
+
 I'm using this as a pop up window in xfce to quickly write notes in markdown.
 
 The app folder contains the electron app, ctl+s to save. Each note automatically prepends the date of creation to the a banner on top.
