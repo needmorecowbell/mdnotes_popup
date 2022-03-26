@@ -6,9 +6,10 @@ const loadMainWindow = () => {
     const mainWindow = new BrowserWindow({
         frame : false,
         width: 500,
-        height: 500,
+        height: 400,
         minWidth: 400,
         minHeight: 250,
+        autofocus: true,
         webPreferences: {
             nodeIntegration: true
         }

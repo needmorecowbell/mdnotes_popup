@@ -38,6 +38,15 @@ body{
 .editor-toolbar.fullscreen{
     background-color: #3D4345 !important;
 }
+
+.editor-toolbar .easymde-dropdown{
+    background: #3D4345 !important;
+    border: None;
+}
+.editor-toolbar .easymde-dropdown-content{
+    background: #3D4345 !important;
+}
+
 .editor-preview pre {
     color: #3D4345 !important;
 }
